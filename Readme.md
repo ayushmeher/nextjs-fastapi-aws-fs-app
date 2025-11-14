@@ -1,4 +1,4 @@
-Oppago - Cashback Tracking Platform
+~~~~~~Oppago - Cashback Tracking Platform
 A full-stack cashback tracking platform enabling users to earn rewards through merchant partnerships with real-time conversion tracking and analytics.
 🎥 Demo [demovideo.mp4](demovideo.mp4)
 The included video showcases the initial phase of the project.
@@ -22,5 +22,3 @@ Database Management: Alembic migrations with optimized queries and validation
 Prerequisites
 
 Node.js (v16+), Python (v3.9+), PostgreSQL (v13+)
-
-Backend Setup
