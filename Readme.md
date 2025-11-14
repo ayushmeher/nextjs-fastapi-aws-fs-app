@@ -8,7 +8,7 @@ Frontend: Next.js
 Backend: FastAPI (Python)
 Database: PostgreSQL with SQLModel ORM
 Infrastructure: AWS (EC2, S3, RDS)
-CI/CD: Bitbucket Pipelines
+CI/CD: Bitbucket Pipelines 
 
 ✨ Key Features
 
