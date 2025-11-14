@@ -17,8 +17,3 @@ Real-Time Sync: Polling mechanisms for third-party merchant data synchronization
 Authentication: JWT tokens and Google OAuth integration
 API Documentation: Swagger/OpenAPI for seamless integration
 Database Management: Alembic migrations with optimized queries and validation
-
-🚀 Quick Start
-Prerequisites
-
-Node.js (v16+), Python (v3.9+), PostgreSQL (v13+)
